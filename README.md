@@ -1,6 +1,6 @@
 # BC Health Authorities Map Visualization
 ## Overview
-This Jupyter notebook provides a visualization of British Columbia's Health Authority regions using GeoPandas and Folium. It aims to showcase the geographical boundaries of each health authority and allows for interactive exploration with customized popups displaying the name of each health authority.
+This Jupyter notebook (BC_HA_Map_v1.ipynb) provides a visualization of British Columbia's Health Authority regions using GeoPandas and Folium. It aims to showcase the geographical boundaries of each health authority and allows for interactive exploration with customized popups displaying the name of each health authority.
 
 ![Alt text](BC_HA.PNG)
 
