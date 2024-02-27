@@ -2,6 +2,8 @@
 ## Overview
 This Jupyter notebook provides a visualization of British Columbia's Health Authority regions using GeoPandas and Folium. It aims to showcase the geographical boundaries of each health authority and allows for interactive exploration with customized popups displaying the name of each health authority.
 
+![Alt text](BC_HA.PNG)
+
 ## Features
 GeoPandas for Geospatial Data: Utilizes GeoPandas to load and manipulate geospatial data from a GeoJSON file, ensuring accurate representation of health authority boundaries.
 Folium for Interactive Maps: Employs Folium to create interactive maps that can be easily explored through a web interface. Folium's capabilities allow for the addition of tooltips and popups to enhance user interaction.
