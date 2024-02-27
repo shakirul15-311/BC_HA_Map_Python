@@ -20,7 +20,8 @@ Ensure you have Jupyter Notebook or JupyterLab installed, along with GeoPandas a
 
 ## Copy code
 pip install jupyterlab geopandas folium
-##Data: 
+
+## Data: 
 The notebook uses a GeoJSON file containing the boundaries and names of British Columbia's Health Authorities. Make sure the file is located in the correct directory as specified in the notebook.
 
 ## Execution:
