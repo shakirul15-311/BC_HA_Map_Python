@@ -6,7 +6,9 @@ This Jupyter notebook (BC_HA_Map_v1.ipynb) provides a visualization of British C
 
 ## Features
 GeoPandas for Geospatial Data: Utilizes GeoPandas to load and manipulate geospatial data from a GeoJSON file (https://catalogue.data.gov.bc.ca/dataset/health-authority-boundaries/resource/581168b5-7014-41fd-86ec-334137d6bc4e ), ensuring accurate representation of health authority boundaries.
-Folium for Interactive Maps: Employs Folium to create interactive maps that can be easily explored through a web interface. Folium's capabilities allow for the addition of tooltips and popups to enhance user interaction.
+
+## Folium for Interactive Maps: 
+Employs Folium to create interactive maps that can be easily explored through a web interface. Folium's capabilities allow for the addition of tooltips and popups to enhance user interaction.
 
 ## Custom Styling: 
 Implements custom styling for each health authority region based on predefined criteria, making it easier to distinguish between different regions on the map.
